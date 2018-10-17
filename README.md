@@ -1,2 +1,0 @@
-# react.js
-react repositorio
